@@ -1,6 +1,0 @@
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe.config
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.exe
-c:\users\erwin\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.pdb
